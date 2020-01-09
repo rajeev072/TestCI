@@ -16,5 +16,5 @@ steps:
 - script: |
     pwd
     ls
-    cat File_1
+    cat File_1.txt
   displayName: 'Run a multi-line script'
