@@ -3,8 +3,3 @@ Hello This is first file
 
 New line
 
-
-Add line
-
-
-DELETE
